@@ -1,7 +1,7 @@
 name: Justin Boone Reality
 favicon: null
-layout_spectrum: 0.9298376757651567
-typography_spectrum: 0.8144752699881792
+layout_spectrum: 1
+typography_spectrum: 0.09326
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.040029308991506696
+    - '#ffffff'
+    - '#3a0d58'
+    - '#c1b1cd'
+    - '#e1d9e6'
+    - '#7d5c92'
+  brandStrength: 0.625
   lightness: 0.5820686409715563
   saturation: 0.02583410288207233
   rhythmicContrast: 0.21108455024659634
